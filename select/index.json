@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Life Sentence",
+  "base_artist": "J. Cole",
+  "createdAt": "2026-02-18T12:54:56.558518Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Life Sentence",
+      "artist": "Dead Kennedys",
+      "has_synced": false,
+      "path": "select/01_Life_Sentence_Dead_Kennedys.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Life Sentence - Live at Alabama Halle",
+      "artist": "Dead Kennedys",
+      "has_synced": false,
+      "path": "select/02_Life_Sentence_-_Live_at_Alabama_Halle_Dead_Kennedys.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Life Sentence - Live at the Paradiso",
+      "artist": "Dead Kennedys",
+      "has_synced": false,
+      "path": "select/03_Life_Sentence_-_Live_at_the_Paradiso_Dead_Kennedys.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Doin' Time - Tricked Out Life Sentence Remix",
+      "artist": "Sublime",
+      "has_synced": false,
+      "path": "select/04_Doin'_Time_-_Tricked_Out_Life_Sentence_Remix_Sublime.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Doin' Time (Tricked Out Life Sentence Remix)",
+      "artist": "Sublime",
+      "has_synced": false,
+      "path": "select/05_Doin'_Time_(Tricked_Out_Life_Sentence_Remix)_Sublime.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Life Sentence",
+      "artist": "Chelsea Grin",
+      "has_synced": true,
+      "path": "select/06_Life_Sentence_Chelsea_Grin.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Life Sentence",
+      "artist": "Dead Kennedys",
+      "has_synced": true,
+      "path": "select/07_Life_Sentence_Dead_Kennedys.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Life Sentence",
+      "artist": "Malevolence",
+      "has_synced": false,
+      "path": "select/08_Life_Sentence_Malevolence.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Life Sentence",
+      "artist": "Sadael",
+      "has_synced": false,
+      "path": "select/09_Life_Sentence_Sadael.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Life Sentence",
+      "artist": "Epicure",
+      "has_synced": true,
+      "path": "select/10_Life_Sentence_Epicure.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Life Sentence",
+      "artist": "Hope D",
+      "has_synced": false,
+      "path": "select/11_Life_Sentence_Hope_D.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "life sentence",
+      "artist": "Zachary Knowles",
+      "has_synced": true,
+      "path": "select/12_life_sentence_Zachary_Knowles.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Life Sentence",
+      "artist": "Satan",
+      "has_synced": true,
+      "path": "select/13_Life_Sentence_Satan.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Life Sentence",
+      "artist": "Citizen Soldier",
+      "has_synced": true,
+      "path": "select/14_Life_Sentence_Citizen_Soldier.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Life Sentence",
+      "artist": "Chelsea Grin",
+      "has_synced": true,
+      "path": "select/15_Life_Sentence_Chelsea_Grin.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Life Sentence",
+      "artist": "J.Cole",
+      "has_synced": false,
+      "path": "select/pl_01_Life_Sentence_J.Cole.txt"
+    }
+  ]
+}
